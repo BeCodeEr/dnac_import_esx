@@ -1,4 +1,4 @@
-# Import Ekahau Site Survey File in DNAC
+# Import Ekahau Site Survey File in Cisco DNA-Center
 
 Because it is not possible at this time to import Ekahau Site Survey Files in DNA-Center (only Ekahau Files in planning mode) i wrote this script 
 to change the measured APs of a Site Survey File to Planned APs. After the conversion, the SiteSurvey File can be imported in DNA-Center.
