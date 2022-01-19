@@ -20,5 +20,5 @@ For that, you can use the DNA-Structure.log as overview.
 - after import the APs are marked as "planned". When you click on the AP, you can map it to the right AP in DNA-Center.
 
 
-It is still possible to open the created .esx files with ekahau, but:
-# DO NOT USE THE CREATED ESX-FILES FOR DATA ANALYTICS IN EKAHAU! JUST FOR IMPORT!
+It is still possible to open the created .esx files with ekahau, but because of file manipulation:
+# DO NOT USE THE CREATED ESX-FILES FOR DATA ANALYTICS IN EKAHAU! THEY ARE JUST FOR IMPORT!
